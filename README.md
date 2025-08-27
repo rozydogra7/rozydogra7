@@ -56,8 +56,9 @@ I enjoy turning **ideas into interactive digital experiences** using clean and e
 # 🐍 Contribution Activity  
 
 <p align="center">
-  <img src="https://github.com/rozydogra7/rozydogra7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/rozydogra7/rozydogra7/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
